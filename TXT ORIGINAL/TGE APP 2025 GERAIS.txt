@@ -1,0 +1,601 @@
+==========
+ICA 100-37
+==========
+
+01
+Qual das atribuições a seguir NÃO faz parte das responsabilidades do APP?
+a) orientar e instruir as aeronaves na execução dos procedimentos de espera, chegada e saída, estabelecidos pelo DECEA.
+b) Controlar operações de pátio nos aeródromos.
+c) Manter as separações mínimas estabelecidas entre aeronaves.
+d) Disciplinar, acelerar e ordenar o fluxo de tráfego aéreo.
+Gabarito: b
+ICA 100-37, Art. 418.
+
+02
+Assinale a alternativa INCORRETA:
+a) Classe A - Somente são permitidos voos IFR.  É proporcionado a todos os voos o serviço de controle de tráfego aéreo e são separados entre si.
+b) Classe B - São permitidos voos IFR e VFR. É proporcionado a todos os voos o serviço de controle de tráfego aéreo e são separados entre si.
+c) Classe D - São permitidos voos IFR e VFR. É proporcionado a todos os voos o serviço de controle de tráfego aéreo. Os voos IFR são separados de outros voos IFR e dos voos VFR. Os voos VFR são separados apenas dos voos IFR e recebem informação de tráfego em relação aos outros voos VFR e, ainda, aviso para evitar tráfego, quando solicitado pelo piloto.
+d) Classe E - São permitidos voos IFR e VFR. É proporcionado somente aos voos IFR o Serviço de Controle de Tráfego Aéreo e estes são separados dos outros voos IFR e todos os voos recebem informação de tráfego, quando possível.
+Resposta: C
+ICA 100-37, Art. 21
+
+03 
+O Serviço de Informação de Voo será proporcionado a todas as aeronaves evoluindo no espaço aéreo sob jurisdição do Brasil que:
+a) Mantenham comunicação bilateral com um órgão ATS ou caso seja solicitado pelo piloto.
+b) Sejam desconhecidas ao APP.
+c) Não possuam equipamento rádio.
+d) Apenas estejam sobre regras de voo IFR ou caso seja solicitado pelo piloto.
+Resposta: A
+ICA 100-37, Art. 741
+
+04 
+Uma aeronave em voo IFR poderá ser autorizada a fazer aproximação visual sempre que: 
+a) O piloto informar que poderá manter referência visual com o solo.
+b) Se o teto notificado não for inferior à altitude de início do procedimento de aproximação por instrumentos.
+c)  O piloto notificar, quando descendo para altitude de início do procedimento ou em qualquer momento durante o procedimento de aproximação por instrumentos, que as condições meteorológicas sejam tais que permitam completar a aproximação visual e pousar.
+d)Todas as alternativas estão corretas.
+Resposta: D
+ICA 100-37, Art. 452
+
+05 
+"Aproximação em voo IFR, quando parte ou a totalidade do procedimento de aproximação por instrumentos não se completa e se realiza com referência visual do solo." É definição de:
+a) Aproximação Por Instrumentos.
+b) Aproximação Visual.
+c) Aproximação Perdida.
+d) Aproximação Radar.
+Resposta: B
+ICA 100-37, ANEXO VII, ITEM XXXVIII
+
+06 
+Em relação às afirmações abaixo, assinale a alternativa correta:
+I) Caberá ao piloto em comando de uma aeronave em voo VFR ou IFR providenciar sua própria separação em relação às demais aeronaves, caso esteja voando em uma classe de espaço aéreo em que o órgão ATC não tenha responsabilidade de prover este tipo de separação.
+II) Os serviços de informação de voo e de alerta serão proporcionados em todas as regiões de informação de voo sob jurisdição do Brasil.
+III) Uma aeronave controlada deverá estar sob controle de somente um órgão de controle de tráfego aéreo.
+a) Apenas as afirmações I e II estão corretas.
+b) Apenas as afirmações II e III estão corretas.
+c) Apenas as afirmações I e III estão corretas.
+d) As afirmações I, II e III estão corretas.
+Resposta: D
+ICA 100-37, Art. 24, Art. 32, Art. 36
+
+07
+As aeronaves VFR só podem entrar em uma TMA ou CTR classe B, C ou D:
+a) Após informar o ACC.
+b) Sem restrições, se equipadas com transponder.
+c) Com autorização prévia do APP.
+d) Apenas durante condições meteorológicas visuais (VMC).
+Resposta: c
+100-37, Art. 421.
+
+08
+Qual é a condição para que uma aeronave IFR entre em uma TMA ou CTR?
+a) Possuir transponder inoperante.
+b) Não ter plano de voo aprovado.
+c) Receber autorização do APP.
+d) Estar em condições meteorológicas visuais (VMC).
+Resposta: c
+ICA 100-37, Art. 420.
+
+09
+Qual é a relação hierárquica entre APP e ACC?
+a) O APP coordena todas as operações do ACC.
+b) APP se subordina ao ACC responsável pela FIR em que está localizado.
+c) Ambos são independentes operacionalmente.
+d) ACC é subordinado ao APP durante emergências.
+Resposta: b
+ICA 100-37, Art. 317.
+
+10
+O piloto da aeronave em descida de emergência, logo que possível, deve tomar as seguintes medidas apropriadas à circunstância, EXCETO:
+a) Navegar conforme considerar apropriado.
+b) Informar ao órgão ATS adequado da descida em emergência e, se possível, suas intenções.
+c) Inserir o código 7700 no transponder.
+d) Prover a sua própria separação com os demais tráfegos.
+Resposta: d
+ICA 100-37, Art. 122.
+
+11
+No caso de falha total do equipamento rádio de solo usado pelo ATC, o controlador deverá tomar certas medidas, EXCETO:
+a) Tentar contato nas frequências secundárias do órgão ou setor de controle.
+b) Tentar estabelecer radiocomunicação na frequência de emergência 121.5 MHz.
+c) Informar, sem demora, a falha a todas as posições de controle adjacentes ou aos órgãos ATC, como aplicável.
+d) Iniciar o procedimento de evacuação do órgão ATS.
+Resposta: d
+ICA 100-37, Art. 267.
+
+12
+Quanto à separação das aeronaves realizada por um APP, assinale a alternativa INCORRETA:
+a) Os APP deverão proporcionar separação vertical ou horizontal aos voos nos espaços aéreos de sua jurisdição.
+b) A separação vertical mínima entre aeronaves aplicada por um APP será de 300m (1.000 pés).
+c) Uma aeronave poderá ser autorizada para um nível previamente ocupado por outra aeronave antes que esta tenha informado que o abandonou.
+d) A separação vertical mínima entre as aeronaves voando IFR e os obstáculos no solo está assegurada na execução dos procedimentos de aproximação e de saída publicados pelo DECEA.
+Resposta: c
+ICA 100-37, Art. 431, Art.432, Art. 433.
+
+13
+Os tempos na perna de afastamento até o FL 140 inclusive deverão ser de:
+a) 30 (trinta) segundos.
+b) 1 (um) minuto.
+c) 1 (um) minuto e 30 (trinta) segundos.
+d) 2 (dois) minutos.
+Resposta: b
+ICA 100-37, Art. 262.
+
+14
+O APP deverá notificar os exploradores das aeronaves ou a seus representantes credenciados quando se previr que as demoras devidas às condições de tráfego serão prolongadas e sempre que se esperar que excedam quantos minutos?
+a) 45 (quarenta e cinco).
+b) 30 (trinta).
+c) 20 (vinte).
+d) 15 (quinze).
+Resposta: b
+ICA 100-37, Art. 430.
+
+15
+Em relação à separação mínima entre aeronaves que saem, escolha a alternativa que melhor completa a lacuna do texto abaixo.
+“É exigida a separação de _________ se as aeronaves voarem em rotas divergentes em ângulo de, pelo menos, 45 graus, imediatamente depois da decolagem, de tal maneira que se consiga aplicar a separação lateral.”
+a) 01 (um) minuto.
+b) 02 (dois) minutos.
+c) 03 (três) minutos.
+d) 05 (cinco) minutos.
+Resposta: a
+ICA 100-37, Art. 435.
+
+16
+Em relação à separação mínima entre aeronaves que saem, escolha a alternativa que melhor completa a lacuna do texto abaixo.
+“É exigida a separação de _________ entre decolagens quando a aeronave precedente voar a uma velocidade que exceder em 40kt, ou mais, a da aeronave que a segue e ambas forem seguir a mesma rota.”
+a) 01 (um) minuto.
+b) 02 (dois) minutos.
+c) 03 (três) minutos.
+d) 05 (cinco) minutos.
+Resposta: b
+ICA 100-37, Art. 436.
+
+17
+Em relação à separação mínima entre aeronaves que saem, escolha a alternativa que melhor completa a lacuna do texto abaixo.
+“São exigidos _________ de separação quando não existir separação vertical, se uma aeronave que parte cruzar o nível de outra que tenha saído antes e ambas seguirem a mesma rota.”
+a) 01 (um) minuto.
+b) 02 (dois) minutos.
+c) 03 (três) minutos.
+d) 05 (cinco) minutos.
+Resposta: d
+ICA 100-37, Art. 437.
+
+18
+Para aproximações visuais sucessivas, quem será o responsável por garantir que o espaçamento entre a aeronave sucessora e o da aeronave antecessora, de uma categoria de esteira de turbulência mais alta, seja aceitável?
+a) APP.
+b) TWR.
+c) O piloto em comando da aeronave antecessora.
+d) O piloto em comando da aeronave que segue.
+Resposta: d
+ICA 100-37, Art. 456.
+
+19
+Quando o piloto em comando notificar, ou se for totalmente evidente para o órgão ATC, que não está familiarizado com o procedimento de aproximação por instrumentos, o APP deverá:
+a) Solicitar que o piloto cancele o voo IFR e prossiga para o circuito de tráfego.
+b) Determinar que o piloto realize outro procedimento de aproximação por instrumentos.
+c) Sugerir que o piloto realize uma aproximação visual.
+d) Descrever ao piloto todas as fases do procedimento a ser executado.
+Resposta: d
+ICA 100-37, Art. 459.
+
+20
+O nível mínimo de espera será sempre o nível constante na tabela de níveis para voo IFR, imediatamente superior:
+a) Ao nível de transição.
+b) À altitude de transição.
+c) Ao nível do mar.
+d) À altitude mínima de setor.
+Resposta: a
+ICA 100-37, Art. 478.
+
+21
+O altímetro será ajustado em 1013,2 (QNE), durante a subida, ao passar:
+a) Pelo nível de transição do local de partida.
+b) Pelo limite vertical da área terminal.
+c) Pela altitude de transição do local de partida.
+d) Pela altitude de transição do local de destino.
+Resposta: c
+ICA 100-37, Art. 481.
+
+22
+A posição vertical de uma aeronave durante a subida será expressa em termos de altitude, até atingir:
+a) O nível de transição.
+b) O limite vertical da CTR.
+c) O limite vertical da TMA.
+d) A altitude de transição.
+Resposta: d
+ICA 100-37, Art. 482.
+
+23
+As aeronaves em descida sob controle radar, que estejam sendo vetoradas para interceptação do segmento final do procedimento de descida ou para aproximação visual, terão seus altímetros ajustados quando para o ajuste QNH?
+a) Quando o órgão de controle de tráfego assim o determinar ou autorizar.
+b) Imediatamente após passar o nível de transição.
+c) Imediatamente após passar a altitude de transição.
+d) Quando o piloto assim julgar pertinente.
+Resposta: a
+ICA 100-37, Art. 485.
+
+24
+Em relação às afirmações abaixo, assinale a alternativa correta:
+I) O voo VFR Especial deverá ser realizado no período diurno.
+II) O voo VFR Especial não deve ser vetorado, exceto em circunstâncias excepcionais como, por exemplo, emergência declarada pelo piloto, obedecidas as altitudes mínimas previstas para o setor.
+III) o ATC deve prover a separação entre os voos IFR e VFR Especiais e entre estes, nos trechos compreendidos dentro da TMA.
+a) Apenas as afirmações I e II estão corretas.
+b) Apenas as afirmações II e III estão corretas.
+c) Apenas as afirmações I e III estão corretas.
+d) As afirmações I, II e III estão corretas.
+Resposta: a
+ICA 100-37, Art. 489.
+
+25
+Em qual classe de espaço aéreo são permitidos voos IFR e VFR, onde esses recebem somente Serviço de Informação de Voo, quando possível e solicitado pelo piloto?
+a) Classe D.
+b) Classe E.
+c) Classe F.
+d) Classe G.
+Resposta: d
+ICA 100-37, Art. 21.
+
+26
+Os mínimos meteorológicos de aeródromo para operações de decolagem IFR são os constantes no (a):
+a) Acordo Operacional do Órgão.
+b) Manual Operacional do Órgão.
+c) AIP-Brasil.
+d) ROTAER.
+Resposta: c
+ICA 100-37, Art. 646.
+
+27
+Assinale a alternativa que melhor completa as lacunas do texto abaixo.
+“Um APP terá jurisdição dentro de uma _______e/ou_______, incluindo as projeções dos limites laterais desta, até o solo ou água, para efeito de prestação dos serviços de Informação de Voo e de Alerta, e, quando por delegação, em CTA e/ou UTA.”
+a) CTR/TMA.
+b) ATZ/FIR.
+c) TMA/CTA.
+d) ATZ/TMA.
+Resposta: a
+ICA 100-37, Art. 423.
+
+28
+Tão logo sejam estabelecidas as comunicações com as aeronaves que chegam, o APP deverá transmitir qual das informações abaixo? 
+a) Número de ACFT no circuito de tráfego.
+b) Procedimento de aproximação por instrumentos a ser executado.
+c) PCN.
+d) Hora certa.
+Resposta: b
+ICA 100-37, Art. 449.
+
+29
+Qual Órgão ATS autoriza um voo VFR Especial?
+a) TWR.
+b) ACC.
+c) AFIS.
+d) APP.
+Resposta: d
+ICA 100-37, Art. 489.
+
+30
+Assinale a alternativa que melhor completa a lacuna do texto abaixo.
+“Uma aeronave somente poderá ser autorizada para um nível previamente ocupado por outra aeronave depois que esta tenha informado que o abandonou. Sabendo-se que existe ______________, suspender-se-á tal autorização até que a aeronave que abandonar o nível notifique que já se encontra em outro nível com a separação mínima requerida.”
+a) Turbulência forte.
+b) Turbulência moderada.
+c) Chuva forte.
+d) Cumulus Nimbus.
+Resposta: a
+ICA 100-37, Art. 433.
+
+31
+Assinale a alternativa que melhor completa a lacuna do texto abaixo.
+“As circunstâncias que envolvem uma aeronave que tenha declarado “combustível mínimo” devem ser reportadas do órgão ATS transferidor para o órgão ATS aceitante e para o __________   pertinente.”
+a) ACC.
+b) RCC.
+c) APP.
+d) ARCC.
+Resposta: d
+ICA 100-37, Art. 294.
+
+32
+Assinale a alternativa que melhor completa a lacuna do texto abaixo.
+“Nos circuitos de espera, as mudanças de nível de voo ou de altitude deverão ser executadas com uma razão de subida ou de descida entre _______ e _______ pés por minuto.”
+a) 1000 / 2000.
+b) 1000 / 1500.
+c) 300 / 500.
+d) 500 / 1000.
+Resposta: d
+ICA 100-37, Art. 265.
+
+33
+Quando for prestado o Serviço de Vigilância ATS, a aeronave deverá ser informada de sua posição em determinadas circunstâncias, EXCETO:
+a) No momento da identificação, quando a identificação tenha sido estabelecida com base no informe do piloto sobre a posição da aeronave ou a uma distância menor de 1 NM do final da pista em uso e a posição observada na tela de vigilância está em conformidade com a hora de partida da aeronave.
+b) Quando o estimado do piloto diferir significativamente daquele do controlador, baseado na posição observada na tela de vigilância.
+c) Quando o piloto for instruído a reassumir sua própria navegação, após vetoração, se as instruções atuais tiverem desviado a aeronave de uma rota previamente atribuída.
+d) Imediatamente antes do término do Serviço de Vigilância ATS, se a aeronave for observada desviando-se de sua rota pretendida.
+Resposta: a
+ICA 100-37, Art. 917.
+
+==========
+ICA 100-12
+==========
+
+34
+A autoridade ATS competente para autorizar e estabelecer as condições relativas ao tráfego aéreo em que devam ser realizados os voos acrobáticos e aqueles para lançamentos de objetos e/ou pulverização, reboque e lançamento de paraquedas e os voos em formação em espaço aéreo controlado é o:
+a) O Comandante do DTCEA.
+b) Diretor-Geral do DECEA.
+c) Gerente do órgão ATS local.
+d) O diretor-presidente da ANAC.
+Resposta: b
+ICA 100-12, Art. 28.
+
+35
+Nenhuma aeronave voará em um espaço aéreo publicado devidamente como área proibida ou, ainda, como área restrita a menos que se ajuste às condições de restrição ou obtenha a permissão prévia da autoridade competente. Tal voo deverá ser coordenado, antecipadamente junto ao:
+a) DECEA.
+b) CRCEA-SE ou CINDACTA com jurisdição sobre a área. 
+c) Órgão ATS local
+d) Gerenciamento do Tráfego Aéreo, ATM.
+Resposta: b
+ICA 100-12, Art. 29.
+
+36
+Quando duas aeronaves se aproximarem de frente, ou quase de frente, e haja perigo de colisão, é correto afirmar que: 
+a) Ambas devem alterar seus rumos para a direita. 
+b) Ambas devem alterar seus rumos para a esquerda.
+c) Ambas devem manter seus rumos e evitar verticalmente.
+d) A aeronave de menor performance cederá passagem às de maior performance.
+Resposta: a
+ICA 100-12, Art. 36.
+
+37
+A aeronave com falha de comunicação, em condições meteorológicas de voo visual, deverá:
+a) Prosseguir seu voo em condições VMC e pousar em algum aeródromo que possua órgão ATS.
+b) Prosseguir seu voo em condições VFR, cumprir o proposto no plano de voo apresentado e pousar no aeródromo de destino.
+c) Manter-se em condições VMC e regressar para o aeródromo de partida.
+d) Prosseguir seu voo em condições meteorológicas de voo visual, pousar no aeródromo adequado mais próximo e informar seu pouso ao órgão ATS apropriado pelo meio mais rápido.
+Resposta: d
+ICA 100-12, Art. 95.
+
+38
+O órgão ATS, ao receber a informação de um piloto com relação a casos suspeitos de doença transmissível, ou outro risco à saúde pública, a bordo da aeronave, deverá notificar, o mais breve possível:
+a) O Gerente do órgão que, por sua vez, deverá informar à administração do aeroporto de partida. 
+b) SALVAERO, FMC, TWR e APOC do aeródromo de destino.
+c) O CINDACTA com jurisdição sobre a área.
+d) Os órgãos ATS de destino e de partida, que, por sua vez deverão informar à administração do aeroporto e ao operador da aeronave.
+Resposta: d
+ICA 100-12, Art. 106.
+
+39
+Os textos 1 e 2 abaixo são as definições de:
+I - Uma condição em que a aeronave se encontra ameaçada por um grave e/ou iminente perigo e requer assistência imediata.
+II- Uma condição que envolve a segurança da aeronave ou de alguma pessoa a bordo, mas que não requer assistência imediata. 
+a) 1 – Socorro, 2 – Ajuda.
+b) 1 – Urgência, 2 – Socorro.
+c) 1 – Socorro, 2 – Urgência.
+d) 1 – Perigo, 2 – Ajuda.
+Resposta: c
+ICA 100-12, Art. 18.
+
+40
+Marque a alternativa que preenche as lacunas de forma correta.
+“Nenhuma pessoa cuja função seja crítica para a segurança da aviação (pessoal que exerce funções sensíveis à segurança) deverá assumir sua função enquanto estiver sob a influência de qualquer _____________ que possa prejudicar o desempenho humano. As pessoas em questão deverão abster-se de todo tipo de uso problemático de ____________.”
+a) Dúvida operacional / equipamentos técnicos.
+b) Substância psicoativa / substância psicoativa.
+c) Substância psicoativa / equipamentos.
+d) Doença / remédios.
+Resposta: b
+ICA 100-12, Art. 19.
+
+41
+O órgão ATS, ao receber a informação de um piloto com relação a casos suspeitos de doença transmissível, ou outro risco à saúde pública, a bordo da aeronave, deverá notificar, o mais breve possível:
+a) O Gerente do órgão que, por sua vez, deverá informar à administração do aeroporto de partida. 
+b) SALVAERO, FMC, TWR e APOC do aeródromo de destino.
+c) O CINDACTA com jurisdição sobre a área.
+d) Os órgãos ATS de destino e de partida, que, por sua vez deverão informar à administração do aeroporto e ao operador da aeronave.
+Resposta: d
+ICA 100-12, Art. 106.
+
+42
+Para a realização de voo VFR, as condições meteorológicas predominantes de qual/quais aeródromo(s), durante as operações de decolagem ou pouso, deverão ser iguais ou superiores aos mínimos estabelecidos para o voo VFR?
+a) Apenas do aeródromo de partida.
+b) Apenas do aeródromo de destino.
+c) Do aeródromo de partida e de destino.
+d) Do aeródromo de partida, de destino e de alternativa.
+Resposta: d
+ICA 100-12, Art. 119
+
+==========
+MCA 100-16
+==========
+
+43
+Segundo o MCA 100-16, qual a fraseologia correta para FL200? 
+a) Nível dois zero zero; flight level two hundred.
+b) Nível de voo dois zero zero; flight level two hundred.
+c) Nível de voo dois zero zero; flight level two zero zero.
+d) Nível dois zero zero; flight level two zero zero.
+Resposta: b
+MCA 100-16, Item 2.8.
+
+44
+Assinale a alternativa INCORRETA: 
+a) Sempre deverão ser usados indicativos completos de chamadas radiotelefônicas ao se estabelecerem as comunicações. 
+b) Uma aeronave poderá modificar, durante o voo, seu indicativo de chamada radiotelefônica, quando perceber que existe outra aeronave na escuta com indicativo semelhante. 
+c) A aeronave da categoria de esteira de turbulência pesada deverá incluir a palavra “pesada” imediatamente após o indicativo de chamada no contato inicial com o órgão ATS.
+d) No caso específico do A380-800, deverá ser incluída a palavra “SUPER” em vez de “PESADA”.
+Resposta: b
+MCA100-16, Item 2.16.
+
+45
+Como seria a fraseologia inglesa para “TAM 3110, desça para 8000 pés, cancele restrições de nível e velocidade.”: 
+a) TAM3110, descend via to eight zero zero zero feet with no restrictions. 
+b) TAM3110, descend to eight thousand feet, disregard restrictions. 
+c) TAM3110, descend to eight thousand feet, cancel level and speed restrictions.
+d) TAM3110, descend to eight zero zero zero feet, cancel level and speed restrictions.
+Resposta: c
+MCA 100-16, Item 4.3.2.4.2.
+
+46
+Conforme a MCA100-16, qual a fraseologia correta em inglês para as palavras MONITORE, COTEJE, CHAME e SOLICITO, respectivamente? 
+a) MONITOR, READ BACK, CONTACT e REQUEST. 
+b) MONITOR, SAY AGAIN, CALL e REQUEST. 
+c) LISTEN, READ BACK, CONTACT e KNOWLEDGE.
+d) HEAR, SAY AGAIN, CALL e REQUEST.
+Resposta: a
+MCA 100-16, Item 2.19.
+
+47
+Segundo a MCA 100-16, os termos “pneu estourado” e “motor apagado” na fraseologia inglesa correspondem a: 
+a) Flat tyre / engine failure. 
+b) Wheel-well fire / stalled engine.
+c) Burst tyre / engine flameout.
+d) Blown out tyre e engine out.
+Resposta: c 
+MCA 100-16, Item 2.21.
+
+48
+De acordo com a MCA 100-16, a correta fraseologia inglesa para “GLO1799, reduza para velocidade mínima limpa” é: 
+a) GLO 1799, reduce the speed to minimum clean. 
+b) GLO 1799, reduce to minimum clean speed. 
+c) GLO 1799, reduce your speed to minimum of clean.
+d) GLO 1799, reduce speed to minimum clean.
+Resposta: b
+MCA 100-16, Item 4.7.3.6.
+
+49
+Um tráfego está cruzando o setor "E" da TMA e o controle está com dificuldades em copiar as transmissões. Durante as comunicações o piloto informa "READ YOU TWO". O termo significa:
+a) Repita cada palavra duas vezes.
+b) Não copio também.
+c) Inteligível por vezes.
+d) Copio você também.
+Resposta: c
+MCA 100-16, Item 2.15.2
+
+50
+Algumas abreviaturas que passaram a fazer parte da fraseologia de tráfego aéreo, devido a sua ampla
+utilização, poderão ser pronunciadas como se escrevem, em vez de utilizar-se o alfabeto fonético.
+Qual das alternativas abaixo NÃO se enquadra na assertiva acima?
+a) AFIL, ATIS, METAR e SELCAL.
+b) ACC, ADF, TMA e VOR.
+c) IDENT, VOLMET, CAVOK e SIGMET.
+d) SID, NOTAM, AFIL e TCAS.
+Resposta: b
+MCA 100-16, Item 2.20.1.
+
+51
+Na fraseologia de tráfego aéreo algumas abreviaturas e códigos serão transmitidos, pronunciando-se cada letra em forma não fonética.
+Qual das alternativas abaixo NÃO se enquadra na assertiva acima?
+a) IMC, ACC, VOR e NDB.
+b) SID, NIL, STAR e TCAS.
+c) ETA, ILS, UHF e VMC.
+d) DME, TMA, SSR e VHF.
+Resposta: b
+MCA 100-16, Item 2.20.2.
+
+52
+Na fraseologia de tráfego aéreo, qual é o correspondente na língua inglesa da frase padronizada "pouso monomotor"?
+a) A single-engine approach.
+b) A single-engine arrival.
+c) A single-engine failure.
+d) A single-engine landing.
+Resposta: d
+MCA 100-16, Item 2.21.
+
+53
+Nos testes de equipamentos radiotelefônicos, as escalas de clareza 1, 2 e 3 correspondem respectivamente a:
+a) Ininteligível, inteligível por vezes e inteligível com dificuldade.
+b) Ininteligível, inteligível com dificuldade e inteligível por vezes.
+c) Inteligível, ininteligível por vezes e inteligível com dificuldade.
+d) Inteligível, inteligível por vezes e inteligível com dificuldade.
+Resposta: a
+MCA 100-16; Item 2.15.2
+
+54
+A frase padronizada em inglês "MINIMUM FUEL" corresponde a qual frase em português?
+a) Pouco combustível.
+b) Combustível mínimo.
+c) Combustível curto.
+d) Combustível reduzido.
+Resposta: b
+MCA 100-16, Item 2.21.
+
+==========
+ICA 100-11
+==========
+
+55
+Assinale a alternativa que NÃO apresenta um tipo de plano de voo, conforme a ICA 100-11:
+a) Plano de Voo Completo (PVC); 
+b) Notificação de Voo (NTV);
+c) Plano de Voo Simplificado (PVS); 
+d) Plano de Voo Repetitivo (RPL).
+Resposta: b
+ICA 100-11, Item 2.1.1.
+
+56
+Assinale a alternativa CORRETA:				
+a) O Plano de Voo apresentado é válido até 45 (quarenta e cinco) minutos após a EOBT.
+b) Quando ocorrer suspensão regulamentar das operações no aeródromo de partida, a validade do Plano de Voo apresentado será de 45 minutos após a EOBT.
+c) Uma aeronave não poderá ser autorizada a decolar antes da EOBT.
+d) Modificações e Atrasos relativos ao PVC poderão ser solicitados até 45 (quarenta e cinco) minutos além da EOBT. 
+Resposta: a
+ICA 100-11, Item 2.4.
+
+57
+O Plano de Voo Completo deve ser apresentado com, pelo menos: 
+a) 60 (sessenta) minutos antes da EOBT.
+b) 30 (trinta) minutos antes da EOBT, se apresentado pela internet.
+c) 15 (quinze) minutos antes da EOBT, se apresentado pela internet.
+d) 120 (cento e vinte) horas antes da EOBT.
+Resposta: b
+ICA 100-11, Item 3.1.3.
+
+=============
+CIRCEA 100-56
+=============
+
+58
+São considerados atos de interferência ilícita contra aviação civil, EXCETO:
+a) Apoderamento ilícito de aeronave no solo.
+b) Manutenção de refém a bordo de aeronave ou nos aeródromos.
+c) Transporte de material químico, biológico, radiológico ou nuclear.
+d) Invasão de aeronave, de um aeroporto ou das dependências de uma instalação aeronáutica.
+Resposta: c
+CIRCEA 100-56, Item 2.2.5.
+
+59
+"Área ou posição no aeródromo destinada ao estacionamento de aeronave que esteja ou se acredite estar sob apoderamento ilícito, ou que necessite ser isolada das demais posições utilizadas, em condições normais, por outras razões."
+Esta é a definição de:
+a) Ponto de Espera.
+b) Ponto de verificação de GNSS.
+c) Ponto Remoto.
+d) Ponto de Estacionamento de Aeronave.
+Resposta: c
+CIRCEA 100-56, Item 2.2.10.
+
+60
+Qual das alternativas abaixo contempla os procedimentos previstos para as ações a serem adotadas pelo APP no caso de apoderamento ilícito de aeronave em voo?
+a) Comunicar imediatamente ao ARCC, ao CGNA e ao Chefe do Órgão.  
+b) Comunicar imediatamente ao ACC, ao CGNA e ao Chefe do Órgão. 
+c) Comunicar ao Comandante/Chefe do CINDACTA.
+d) Comunicar ao COpM e ao ARCC da área envolvida.
+Resposta: b
+CIRCEA 100-56, Anexo B.
+
+============= 
+CIRCEA 100-53
+=============
+
+61
+Para a aplicação de uma autorização padronizada para aeronave partindo, deverão ser divulgadas, por meio das publicações de informações aeronáuticas, as seguintes informações, EXCETO:
+a) o nome do aeródromo envolvido;
+b) o período de aplicação, se pertinente; e
+c) outras informações necessárias aos aeronavegantes.
+d) O código ANAC da CIA aérea.
+Resposta: d
+CIRCEA 100-53 Item 3.1.6 
+
+62
+Segundo a ICA 100-9, caso o TAM 3835 esteja conduzindo o Presidente do Brasil em missão oficial, o designador telegráfico será:
+a) FAB 01
+b) TAM 01
+c) BRS 01
+d) TAM 3835
+Resposta: b
+ICA 100-9 Item 5.3

@@ -1,0 +1,964 @@
+﻿==================
+MODELO OPERACIONAL
+==================
+
+01
+Escolha a alternativa que melhor completa o texto abaixo:
+“No APP-LO, caso a capacidade ATC já tenha sido alcançada e surjam outros tráfegos não previstos, o encarregado deverá efetuar a avaliação desses tráfegos, e, caso não seja possível o ajuste dos tráfegos da aviação geral, deverá acionar o ________, através do FMC SBCW.”
+a) Diretor do DECEA.
+b) ACC-CW.
+c) CGNA.
+d) SALVAERO.
+MODELO OPERACIONAL APP-LO – Item 6.3.1.6
+Gabarito: “c”.
+
+02
+O ATCO do APP-LO que primeiro tomar conhecimento ou suspeitar de ameaça de bomba a bordo da aeronave deverá comunicar imediatamente ao:
+a) SALVAERO/RCC SBCW através do TF2 ou telefone externo.
+b) Supervisor do aeroporto através do Encarregado de equipe.
+c) APOC através do ramal interno ou via rádio UHF.
+d) DNLO-4 e os demais membros da equipe.
+MODELO OPERACIONAL APP-LO – Item 7.1.3.1
+Gabarito: “d”.
+
+03
+O APP-LO deverá dar ciência a qual órgão operacional caso receba a informação da existência de um ELT acionado?
+a) APOC através do ramal interno ou via rádio UHF. 
+b) Supervisor do aeroporto através do Encarregado de equipe.
+c) SALVAERO/RCC SBCW através do TF2 ou telefone externo.
+d) ACC CW através do TF2 ou telefone externo.
+MODELO OPERACIONAL APP-LO – Item 7.3.5.1
+Gabarito: “c”.
+
+04
+O APP será informado por quem sobre o designador (letra) da informação ATIS em vigor?
+a) Pela TWR-LO.
+b) Pela meteorologia.
+c) Pelo APOC.
+d) Pela AIS.
+MODELO OPERACIONAL APP-LO – Item 4.2.2
+Gabarito: “a”.
+
+05
+Qual das informações abaixo o Encarregado do turno NÃO deverá informar imediatamente ao CGNA, através do FMC SBCW?
+a) Redução, temporária ou não, do número de ATCO da equipe de serviço.
+b) Aeronaves em emergência.
+c) Qualquer tipo de alteração na infraestrutura do espaço aéreo e aeroportuária.
+d) Mudança da pista em uso em SBLO.
+MODELO OPERACIONAL APP-LO – Item 6.3.2.3
+Gabarito: “d”.
+
+06
+Escolha a alternativa que melhor completa o texto abaixo:
+“Na TMA-LO, durante a operação RADAR, a capacidade ATC calculada para o APP VGL-LO (NRef) é de_______ tráfegos, com Número Pico (NPico) sendo _______ tráfegos.”
+a) 05 (cinco) / 07 (sete).
+b) 08 (oito) / 10 (dez).
+c) 10 (dez) / 12 (doze).
+d) 06 (seis) / 08 (oito).
+MODELO OPERACIONAL APP-LO – Item 5.1
+Gabarito: “b”.
+
+07
+Escolha a alternativa que melhor completa o texto abaixo:
+“Na TMA-LO, durante a operação CONVENCIONAL, a capacidade ATC calculada (NRef) é de_______ tráfegos, com Número Pico (NPico) sendo _______ tráfegos.”.
+a) 05 (cinco) / 07 (sete).
+b) 08 (oito) / 10 (dez).
+c) 10 (dez) / 12 (doze).
+d) 06 (seis) / 08 (oito).
+MODELO OPERACIONAL APP-LO – Item 5.2
+Gabarito: “d”.
+
+08
+Em relação às responsabilidades operacionais do controlador na posição Controle APP VGL, marque a alternativa incorreta.
+a) Manter ordenado e controlado o tráfego na sua área de jurisdição.
+b) Manter estreita coordenação com o ASS APP VGL.
+c) Manter visível no console a fila das FPV eletrônicas (strips).
+d) Manter o APOC ciente da informação ATIS em vigor.
+MODELO OPERACIONAL APP-LO – Item 4.2.1
+Gabarito: “d”.
+
+09
+Quando a aeronave operando dentro de espaço aéreo controlado necessitar alijar combustível, o piloto deverá informar tal fato ao órgão ATC responsável pelo espaço aéreo em que esteja voando. O APP VGL-LO deverá coordenar com o piloto o seguinte:
+a) Rota a ser voada, se possível, deverá estar livre de cidades e populações, preferencialmente sobre a água e longe de áreas onde foram informadas ou previstas condições meteorológicas adversas.
+b) O nível a ser usado não deverá ser inferior a 5000 pés.
+c) A duração do voo até o pouso.
+d) Não se afastar mais do que 15NM do aeródromo.
+MODELO OPERACIONAL APP-LO – Item 7.2.7.2
+Gabarito: “a”.
+
+10
+Assinale (F) para Falso e (V) para verdadeiro.
+Após a ocorrência ou reporte de ACAS do piloto, o PTA deverá aguardar o momento apropriado na fonia para solicitar ao piloto as seguintes informações:
+(  ) Caso não seja informado explicitamente o tipo de indicação, perguntar claramente se a informação recebida no TCAS foi “TA” ou “RA”.
+(  ) Em caso de informação sobre “RA” ou sobre execução de manobra evasiva, perguntar qual foi a manobra evasiva efetuada (não utilizar as palavras: “subida”, “descida”, “esquerda”, “direita”, para não influenciar a resposta).
+(  ) Qual a separação (vertical e horizontal) entre as aeronaves no momento do evento reportado.
+(  ) Caso o piloto informe que recebeu “RA”, consultar se recebeu “TA” antes do “RA”.
+(  ) Se o piloto estabeleceu contato visual com a outra aeronave (tanto para TA quanto para RA).
+a) V, F, V, F, F.
+b) F, V, F, V, F. 
+c) V, V, V, V, V.
+d) F, F, F, F, F.
+MODELO OPERACIONAL APP-LO – Item 7.2.6.4
+Gabarito: “c”.
+
+11
+Em relação à TMA-LO, escolha a alternativa que melhor completa o texto abaixo:
+“Os tráfegos IFR realizarão preferencialmente as subidas _______ de ambas as cabeceiras partindo de SBMG ou de SBLO, com as transições definidas conforme o setor de saída da TMA-LO.”
+a) OMNI.
+b) RNAV.
+c) VOR.
+d) NDB.
+MODELO OPERACIONAL APP-LO – Item 6.2.2.3
+Gabarito: “a”.
+
+12
+As autorizações e instruções emitidas pelo APP VGL-LO devem prover separações entre quais voos na TMA-LO?
+a) VFR.
+b) VFR e IFR.
+c) IFR.
+d) Não são previstas separações na TMA-LO.
+MODELO OPERACIONAL APP-LO – Item 6.5.1.1
+Gabarito: “c”.
+
+13
+Qual o nome dado à autorização de voo no espaço aéreo brasileiro, com ou sem pouso no território subjacente, emitida pelo Estado-Maior da Aeronáutica às aeronaves militares e civis públicas estrangeiras, bem como às civis nacionais e estrangeiras que estiverem transportando explosivos e/ou material bélico?
+a) AVOEM.
+b) AFIL.
+c) FPL.
+d) AVOMD.
+MODELO OPERACIONAL APP-LO – Item 2.1
+Gabarito: “a”.
+
+14
+Qual é a medida aplicada por um órgão ATC para regrar, de imediato, a demanda, em função de um desbalanceamento inesperado do número de aeronaves controladas?
+a) Serviço de tráfego aéreo.
+b) Controle de tráfego aéreo.
+c) Controle de fluxo.
+d) Controle de aproximação.
+MODELO OPERACIONAL APP-LO – Item 2.1
+Gabarito: “c”.
+
+15
+O Serviço de Alerta será prestado a todas as aeronaves:
+a) Voando sob regras VFR e que tenham sido notificadas ao CGNA.
+b) Voando sob regras IFR na área do ACC CW.
+c) Voando sob regras IFR, desde que tenham equipamento ELT em funcionamento.
+d) Voando sob regras VFR e IFR, exceto aquelas cujo voo não tenha sido notificado aos órgãos ATS.
+MODELO OPERACIONAL APP-LO – Item 7.1.1.2
+Gabarito: “d”.
+
+16
+Qual é a definição da Condição de Emergência de URGÊNCIA?
+a) Condição que envolve a segurança da aeronave ou de alguma pessoa a bordo, mas que não requer assistência imediata.
+b) Condição que envolve a segurança do tráfego aéreo.
+c) Condição que envolve a segurança do tráfego aéreo e de aeronaves que estão na área do ACC CW.
+d) Condição em que a aeronave se encontra ameaçada por grave e/ou iminente perigo e requer assistência imediata.
+MODELO OPERACIONAL APP-LO – Item 7.1.1.4
+Gabarito: “a”.
+
+17
+Em caso de inoperância do radar de Catanduvas, o Serviço de Vigilância ATS continuará sendo prestado, porém a separação mínima entre as aeronaves evoluindo na TMA-LO deverá ser de:
+a) 05 (cinco) NM.
+b) 07 (sete) NM.
+c) 10 (dez) NM.
+d) 12 (doze) NM.
+MODELO OPERACIONAL APP-LO – Item 6.6.1.4.4
+Gabarito: “c”.
+
+18
+As ações de controle de fluxo por parte do CGNA e as ações realizadas pelo Encarregado do turno tem como objetivo manter a capacidade ATC do APP VGL-LO sem penalizar:
+a) As aeronaves da aviação geral.
+b) Nenhuma aeronave.
+c) As aeronaves da aviação regular.
+d) As aeronaves militares.
+MODELO OPERACIONAL APP-LO – Item 6.3.1.8
+Gabarito: “c”.
+
+19
+Com o objetivo de diminuir o número de tráfegos quando houver tendência de aumento, o encarregado do APP VGL-LO poderá:
+a) Solicitar o regresso dos tráfegos em instrução e treinamento, ou solicitar que esses tráfegos aguardem para decolagem.
+b) Interromper a prestação do serviço de informação de voo para os tráfegos utilizando as REA conforme AIC relacionada aos corredores visuais na TMA-LO.
+c) Solicitar a realização de esperas em pontos de referência visuais das REA para ingresso na TMA-LO/CTR Londrina/CTR Maringá conforme AIC relacionada aos corredores visuais na TMA-LO.
+d) Todas as alternativas anteriores.
+MODELO OPERACIONAL APP-LO – Item 6.3.1.3
+Gabarito: “d”.
+
+20
+Qual a classificação do espaço aéreo da TMA SBXO?
+a) Classe A.
+b) Classe C.
+c) Classe D.
+e) Classe E.
+MODELO OPERACIONAL APP-LO – Item 3.2.1
+Gabarito: “c”.
+
+21
+Qual a classificação do espaço aéreo da CTR LONDRINA?
+a) Classe A.
+b) Classe C.
+c) Classe D.
+e) Classe E.
+MODELO OPERACIONAL APP-LO – Item 3.2.1
+Gabarito: “c”.
+
+22
+A quem o ATCO na posição Assistente de Controle APP VGL deverá informar sobre a ativação das áreas de paraquedismos em SSOG (SBR809) e SSOK (SBR813) para inclusão da informação no ATIS?
+a) ACC-CW.
+b) TWR-LO.
+c) APOC.
+d) CGNA.
+MODELO OPERACIONAL APP-LO – Item 4.2.2
+Gabarito: “b”.
+
+23
+O ATCO na posição Assistente de Controle APP VGL deverá comunicar imediatamente ao Encarregado:
+a) Toda ocorrência operacional do seu conhecimento (mesmo que não haja reclamação dos envolvidos).
+b) Toda decolagem de voos IFR partindo de SBLO.
+c) Toda atualização da informação ATIS.
+d) Toda decolagem de voo IFR partindo de SBMG.
+MODELO OPERACIONAL APP-LO – Item 4.2.2
+Gabarito: “a”.
+
+24
+Em qual momento o ATCO na escala de serviço deve inteirar-se do LRO eletrônico (ou físico na impossibilidade daquele) e assiná-lo?
+a) Ao final do mês, verificando em quais dias houve a ausência da assinatura.
+b) Ao término do turno de serviço, após abandonar a posição operacional.
+c) Apenas quando solicitado pelo Encarregado.
+d) Antes de assumir qualquer posição operacional.
+MODELO OPERACIONAL APP-LO – Item 4.2.3
+Gabarito: “d”.
+
+25
+Na TMA-LO, o APP VGL-LO deve cumprir a separação horizontal mínima de quantas milhas entre as aeronaves, baseada no PSR, SSR, ADS-B e MLAT?
+a) 10 (dez) milhas.
+b) 07 (sete) milhas.
+c) 05 (cinco) milhas.
+d) 03 (três) milhas.
+MODELO OPERACIONAL APP-LO – Item 6.2.1.2
+Gabarito: “c”.
+
+26
+O APP VGL-LO transmitirá informações e autorizações às aeronaves sob seu controle para manter um movimento de tráfego aéreo na TMA-LO:
+a) Apenas seguro.
+b) Apenas ordenado.
+c) Seguro e ordenado.
+d) Seguro, ordenado e rápido.
+MODELO OPERACIONAL APP-LO – Item 6.2.1.4
+Gabarito: “d”.
+
+27
+A posição operacional ASS APP VGL poderá ser desativada quando o número de fichas de progressão de voo simultâneas (pré ativas e ativas controladas) disponíveis na fila de strips no SAGITARIO forem no máximo quantas?
+a) 01 (uma).
+b) 02 (duas).
+c) 03 (três).
+d) 05 (cinco).
+MODELO OPERACIONAL APP-LO – Item 6.4.4
+Gabarito: “c”.
+
+28
+Não deverá ser desativada a posição ASS APP VGL quando ocorrer qual dos seguintes eventos?
+a) Reporte de windshear.
+b) Aeronave em aerolevantamento.
+c) Voo do GEIV em inspeção.
+d) Treinamento IFR.
+MODELO OPERACIONAL APP-LO – Item 6.4.4
+Gabarito: “c”.
+
+==================
+MANUAL OPERACIONAL
+==================
+
+29
+Qual o horário de funcionamento do APP-LO?
+a) H24.
+b) H18.
+c) Do nascer ao pôr do sol.
+d) Horário comercial.
+MANUAL OPERACIONAL APP-LO – Item 4.2
+Gabarito: “a”.
+
+30
+Escolha a alternativa que melhor completa o texto abaixo:
+“O APP-LO comunica-se com o ACC-CW e com a TWR-MG por intermédio de __________ ou, como alternativa, por _________ ou _________.”
+a) TF1 / TF2 / telefone externo.
+b) TF2 / TF3 / telefone externo.
+c) Intercom / TF1 / TF2. 
+d) TF1 / TF3 / telefone externo.
+MANUAL OPERACIONAL APP-LO – Item 11.1.2
+Gabarito: “a”.
+
+31
+Quais os únicos aeródromos controlados na TMA-LO?
+a) SSOG e SSAP.
+b) SBLO e SBMG.
+c) SBBI e SBMG.
+d) SBLO e SBDN.
+MANUAL OPERACIONAL APP-LO – Item 8.2.2
+Gabarito: “b”.
+
+32
+Escolha a alternativa que melhor completa o texto abaixo:
+“O APP-LO comunica-se com o APOC, Setor de Manutenção, TI, EMS-2 e demais setores que prestam apoio ao APP-LO por _________ e possui ainda uma linha externa exclusiva com possibilidade de receber e efetuar ligações externas.”
+a) TF-1.
+b) ramal interno.
+c) TF-2
+d) TF-3.
+MANUAL OPERACIONAL APP-LO – Item 11.1.4
+Gabarito: “b”.
+
+33
+Escolha a alternativa que melhor completa o texto abaixo:
+“O APP-LO proporciona serviço de vigilância ATS, a partir da síntese dos dados obtidos do Radar Secundário de Terminal de ______ (RSM CIRIUS) e do Radar de Rota de ______ (RSM970S CIRIUS).”
+a) Catanduvas / Londrina.
+b) Londrina / Maringá.
+c) Londrina / Catanduvas.
+d) Catanduvas / Curitiba.
+MANUAL OPERACIONAL APP-LO – Item 6.3
+Gabarito: “c”.
+
+34
+Qual a classificação do espaço aéreo nos corredores visuais da TMA-LO?
+a) Classe D.
+b) Classe C.
+c) Classe E.
+d) Classe A.
+MANUAL OPERACIONAL APP-LO – Item 4.1
+Gabarito: “c”.
+
+35
+Qual dos seguintes auxílios está disponível em SBLO?
+a) ILS.
+b) RVR.
+c) PAPI. 
+d) NDB.
+MANUAL OPERACIONAL APP-LO – Item 8.2.1
+Gabarito: “c”.
+
+36
+A apresentação radar de uma aeronave não será considerada confiável quando o fator de qualidade exibido na respectiva etiqueta for diferente de qual número?
+a) 07 (sete).
+b) 06 (seis).
+c) 01 (um).
+d) 03 (três).
+MANUAL OPERACIONAL APP-LO – Item 4.1.2
+Gabarito: “a”.
+
+37
+Qual os limites verticais da CTR Maringá?
+a) Inferior – solo / Superior – 4500' (exclusive).
+b) Inferior – solo / Superior – 3500' (inclusive). 
+c) Inferior – solo / Superior – 4500' (inclusive).
+d) Inferior – solo / Superior – 3500' (exclusive).
+MANUAL OPERACIONAL APP-LO – Item 4.1
+Gabarito: “a”.
+
+38
+Quais os limites verticais da TMA-LO?
+a) Inferior – 4500' (exclusive)/ Superior – FL145 (exclusive).
+b) Inferior – 4500' (inclusive)/ Superior – FL145 (inclusive). 
+c) Inferior – 4500' (inclusive)/ Superior – FL145 (exclusive).
+d) Inferior – 4500' (exclusive)/ Superior – FL145 (inclusive).
+MANUAL OPERACIONAL APP-LO – Item 4.1
+Gabarito: “b”.
+
+39
+Qual os limites verticais da CTR Londrina?
+a) Inferior – solo / Superior – 4500' (exclusive).
+b) Inferior – solo / Superior – 5500' (inclusive). 
+c) Inferior – solo / Superior – 4500' (inclusive).
+d) Inferior – solo / Superior – 5500' (exclusive).
+MANUAL OPERACIONAL APP-LO – Item 4.1
+Gabarito: “a”.
+
+40
+Qual o Ramal do Telefone Operacional Externo do APP Londrina?
+a) Ramal 9161.
+b) Ramal 9190.
+c) Ramal 9160.
+d) Ramal 9150.
+MANUAL OPERACIONAL APP-LO – Item 5.1.2
+Gabarito: “a”.
+
+41
+Qual o TF-2 do APP-LO?
+a) TF-2 210.
+b) TF-2 220.
+c) TF-2 236.
+d) TF-2 240.
+MANUAL OPERACIONAL APP-LO – Item 5.1.2
+Gabarito: “d”.
+
+42
+Quando um plano de voo está em estado pré-ativo no SAGITARIO, sua STRIP será apresentada em qual cor?
+a) Verde.
+b) Preta.
+c) Laranja.
+d) Azul.
+MANUAL OPERACIONAL APP-LO – Item 6.3.1.5.3
+Gabarito: “a”.
+
+43
+Quando um plano de voo está em estado controlado no SAGITARIO, sua STRIP será apresentada em qual cor?
+a) Verde.
+b) Preto.
+c) Laranja.
+d) Azul.
+MANUAL OPERACIONAL APP-LO – Item 6.3.1.5.3
+Gabarito: “b”.
+
+44
+Quando um plano de voo está em estado de transferência pelo APP-LO no SAGITARIO, sua STRIP será apresentada em qual cor?
+a) Verde.
+b) Preto.
+c) Laranja.
+d) Azul.
+MANUAL OPERACIONAL APP-LO – Item 6.3.1.5.3
+Gabarito: “c”.
+
+45
+Quando um plano de voo está em estado de transferência pelo ACC-CW no SAGITARIO, sua STRIP será apresentada em qual cor?
+a) Verde.
+b) Preto.
+c) Laranja.
+d) Azul.
+MANUAL OPERACIONAL APP-LO – Item 6.3.1.5.3
+Gabarito: “d”.
+
+46
+Com exceção do campo Callsign, que será mantido na cor original, um plano de voo recém introduzido na posição terá o texto da strip exibido em qual cor?
+a) Ciano.
+b) Preto.
+c) Laranja.
+d) Amarelo.
+MANUAL OPERACIONAL APP-LO – Item 6.3.1.5.4.14
+Gabarito: “a”.
+
+47
+Quando o operador clicar com o botão esquerdo do mouse sobre a strip padrão no SAGITARIO, o reconhecimento da strip será efetuado e esta será exibida na sua cor original. Quando houver alteração em um campo específico do plano após o reconhecimento, esse campo será apresentado em qual cor?
+a) Amarelo.
+b) Preto.
+c) Laranja.
+d) Azul claro.
+MANUAL OPERACIONAL APP-LO – Item 6.3.1.5.4.18
+Gabarito: “d”.
+
+48
+As strips recém introduzidas no SAGITARIO ou que receberem alguma modificação terão a borda destacada em qual cor?
+a) Amarelo.
+b) Preto.
+c) Laranja.
+d) Azul claro.
+MANUAL OPERACIONAL APP-LO – Item 6.3.1.5.4.18
+Gabarito: “d”.
+
+49
+Quando um plano de voo está em estado finalizado no SAGITARIO, sua STRIP será apresentada em qual cor?
+a) Ciano.
+b) Preto.
+c) Cinza.
+d) Azul claro.
+MANUAL OPERACIONAL APP-LO – Item 6.3.1.5.3
+Gabarito: “c”.
+
+50
+Quando um plano de voo está em estado não controlado no SAGITARIO, sua STRIP será apresentada em qual cor?
+a) Cinza.
+b) Preto.
+c) Branco.
+d) Ciano.
+MANUAL OPERACIONAL APP-LO – Item 6.3.1.5.3
+Gabarito: “c”.
+
+============
+CAOP 100-704
+============
+
+51
+É responsabilidade do APP-LO com a TWR/AFIS-MG sobre os tráfegos em aproximação IFR:
+a) Efetuar a transferência de comunicações das aeronaves chegando, independentemente de o piloto informar referência visual com o solo, quando a aeronave estiver passando o fixo intermediário (IF) dos procedimentos IFR ou, antes do IF, se as condições meteorológicas sejam tais que, com razoável certeza, a aproximação e pouso possam ser completados com referência visual com o solo.
+b) Efetuar a transferência de comunicações das aeronaves chegando quando a aeronave estiver passando o fixo de aproximação final (FAF) dos procedimentos IFR.
+c) Efetuar a transferência de comunicações das aeronaves chegando, quando o piloto informar que está com o trem de pousou "baixado e travado".
+d) Efetuar a transferência de comunicações das aeronaves chegando, somente quando o piloto reportar que está visual com a pista.
+CAOP CINDACTA II 100-704 – Item 2.4.1.2
+Gabarito: “a”.
+
+52
+É responsabilidade do APP-LO com a TWR/AFIS-MG, sobre os tráfegos em aproximação VFR:
+a) Informar a TWR/AFIS-MG os estimados das aeronaves em aproximação VFR para ingresso na TMA-LO, tão logo os obtenha.
+b) Informar a TWR/AFIS-MG os estimados das aeronaves em aproximação VFR para o limite da CTR-MG ou para os portões da REA Londrina que ingressarão na CTR-MG, tão logo os obtenha.
+c) Informar a TWR/AFIS-MG o POB e alternativa de todos os tráfegos VFR pra SBMG.
+d) Informar a TWR/AFIS-MG os estimados das aeronaves em aproximação VFR para pouso em todos os aeródromos da TMA-LO.
+AOP CINDACTA II 100-704 – Item 2.4.1.1
+Gabarito: “b”.
+
+53
+As aeronaves IFR serão sequenciadas pelo APP-LO para a RWY 31 conforme qual critério de espaçamento?
+a) Espaçamento de 10 (dez) NM entre aproximações sucessivas.
+b) Espaçamento de 05 (cinco) NM entre aproximações sucessivas.
+c) Espaçamento de 20 (vinte) NM entre aproximações sucessivas.
+d) Espaçamento de 03 (três) NM entre aproximações sucessivas.
+CAOP CINDACTA II 100-704 – Item 2.2.2.2
+Gabarito: “b”.
+
+54
+Em relação aos tráfegos em aproximação IFR para SBLO, o APP-LO deverá coordenar com a TWR-LO os estimados das aeronaves para sobrevoo de quais fixos?
+a) Fixos iniciais (IAF).
+b) Fixos intermediários (IF).
+c) Fixos de aproximação final (FAF).
+d) Fixos de ingresso na TMA-LO.
+CAOP CINDACTA II 100-704 – Item 2.2.1.2
+Gabarito: “a”.
+
+55
+Em relação aos tráfegos em aproximação IFR para SBLO, o APP-LO deverá transferir as comunicações das aeronaves quando estiverem passando qual fixo?
+a) Fixo de Aproximação Inicial (IAF), independentemente de o piloto informar referência visual com o solo ou, antes do IAF, se as condições meteorológicas sejam tais que, com razoável certeza, a aproximação e pouso possam ser completados com referência visual com o solo.
+b) Fixo Intermediário (IF), independentemente de o piloto informar referência visual com o solo ou, antes do IF, se as condições meteorológicas sejam tais que, com razoável certeza, a aproximação e pouso possam ser completados com referência visual com o solo.
+c) Fixo de Aproximação Final (FAF), independentemente de o piloto informar referência visual com o solo.
+d) Fixo de ingresso na CTR Londrina.
+CAOP CINDACTA II 100-704 – Item 2.2.1.2
+Gabarito: “b”.
+
+56
+Os tráfegos em aproximação VFR para SBLO, serão instruídos a efetuar a troca de frequência para a TWR-LO quando estiverem:
+a) Ingressando no circuito de tráfego, somente.
+b) A 10 (dez) NM de SBLO.
+c) A 20 (vinte) NM de SBLO quando em descida e a 05 (cinco) NM de SBLO quando na altitude de tráfego.
+d) Nos portões de entrada da CTR-LO ou 15 NM fora do circuito de tráfego, independente da altitude e livres de qualquer conflito com tráfegos sob regras de voo IFR.
+CAOP CINDACTA II 100-704 – Item 2.2.1.1
+Gabarito: “d”.
+
+57
+Em relação a tráfego IFR partindo de SBLO, a TWR-LO deverá informar ao APP-LO quando estiver no ponto de espera pronto para a partida, ratificando quais informações?
+a) Matrícula e destino.
+b) Matrícula e nível de voo.
+c) Matrícula, destino, nível de voo e transponder.
+d) Matrícula, destino, nível de voo, transponder e saída IFR.
+CAOP CINDACTA II 100-704 – Item 2.3.2
+Gabarito: “c”.
+
+58
+Em caso de degradação do VHF Arapongas, compete ao APP-LO informar a TWR/AFIS-MG todas as aeronaves que forem cruzar a CTR-MG, ou sobrevoá-la abaixo de qual nível?
+a) FL050.
+b) FL070.
+c) FL045.
+d) FL060.
+CAOP CINDACTA II 100-704 – Item 3.1.2
+Gabarito: “d”.
+
+59
+Em caso de degradação da visualização radar, qual (quais) afirmativa(s) abaixo está (estão) correta(s)?
+I - Compete ao APP-LO informar a TWR/AFIS-MG, TWR-LO, e ACC-CW, imediatamente após identificar a degradação, assim como o restabelecimento do equipamento e retorno do serviço de controle de aproximação radar. 
+II - Compete a TWR/AFIS-MG e TWR-LO informar ao ACC-CW, via telefone todas as decolagens de tráfegos IFR que voarão no FL150 ou acima.
+III - Compete ao APP-LO, informar a TWR-LO e a TWR/AFIS-MG tão logo uma aeronave executando uma aproximação IFR tenha iniciado o procedimento.
+a) Somente a afirmativa I está correta.
+b) Somente as afirmativas I e III estão corretas.
+c) Somente as afirmativas I e II estão corretas.
+d) Todas as afirmativas estão corretas.
+CAOP CINDACTA II 100-704 – Item 3.2
+Gabarito: “b”.
+
+60
+Qual é o ponto de transferência de controle e comunicações da TWR-LO ao APP-LO dos voos IFR?
+a) Logo após a decolagem desde que não constituam tráfego com os demais voos controlados pela TWR-LO.
+b) Somente no limite lateral da CTR-LO.
+c) Somente 05NM fora do aeródromo.
+d) Logo após a decolagem, mesmo que constituam tráfego com os demais voos controlados pela TWR-LO.
+CAOP CINDACTA II 100-704 – Item 2.3.3
+Gabarito: “a”.
+
+61
+É responsabilidade do APP-LO com a TWR-LO sobre os tráfegos em aproximação VFR:
+a) Informar a TWR-LO os estimados das aeronaves em aproximação VFR para ingresso na TMA-LO, tão logo os obtenha.
+b) Informar a TWR-LO os estimados das aeronaves em aproximação VFR para o limite da CTR-LO ou para os portões da REA Londrina que ingressarão na CTR-LO, tão logo os obtenha.
+c) Informar a TWR-LO o POB e alternativa de todos os tráfegos VFR pra SBLO.
+d) Informar a TWR-LO os estimados das aeronaves em aproximação VFR para pouso em todos os aeródromos da TMA-LO.
+CAOP CINDACTA II 100-704 – Item 2.2.1.1
+Gabarito: “b”.
+
+62
+Escolha a alternativa que melhor completa o texto abaixo:
+“Caso haja degradação do equipamento VHF instalado no aeródromo de SSOG, o APP-LO passará a utilizar o equipamento VHF instalado em ________, o qual tem sua capacidade de cobertura limitada no setor ______ da Terminal de Londrina.”
+a) SBMG / N (norte).
+b) SBLO / W (oeste).
+c) SBMG / S (sul).
+d) SBLO / E (leste).
+CAOP CINDACTA II 100-704 – Item 3.1.1
+Gabarito: “b”.
+
+63
+As separações mínimas estabelecidas entre aproximações sucessivas para SBLO deverão ser mantidos até o momento em que a primeira aeronave no sequenciamento cruzar qual ponto?
+a) Fixo de Aproximação Inicial (IAF).
+b) Fixo Intermediário (IF).
+c) Fixo de Aproximação Final (FAF).
+d) Cabeceira da pista utilizada.
+AOP CINDACTA II 100-704 – Item 2.2.2
+Gabarito: “d”.
+
+64
+Em relação aos tráfegos em aproximação IFR para SBLO, o APP-LO deverá revisar os estimados no IAF junto à TWR-LO sempre quando divergirem em quantos minutos?
+a) 02 (dois) minutos.
+b) 05 (cinco) minutos.
+c) 03 (três) minutos.
+d) 04 (quatro) minutos.
+AOP CINDACTA II 100-704 – Item 2.2.1.2
+Gabarito: “c”.
+
+65
+As aeronaves IFR serão sequenciadas pelo APP-LO para a RWY 13 conforme qual critério de espaçamento?
+a) 07 (sete) minutos entre aproximações sucessivas.
+b) 05 (cinco) minutos entre aproximações sucessivas.
+c) 10 (dez) minutos entre aproximações sucessivas.
+d) 03 (três) minutos entre aproximações sucessivas.
+AOP CINDACTA II 100-704 – Item 2.2.2.1
+Gabarito: “a”.
+
+66
+Ao que compete ao APP-LO em relação à degradação do VHF Arapongas, assinale a alternativa INCORRETA:
+a) Informar a TWR/AFIS-MG imediatamente após identificar a degradação, assim como, o restabelecimento do equipamento VHF instalado no aeródromo de SSOG.
+b) Informar a TWR/AFIS-MG todas as aeronaves que forem cruzar a CTR-MG, ou sobrevoá-la abaixo do FL060.
+c) Suspender as autorizações de treinamento IFR no aeródromo de SBMG.
+d) Informar os setores 15 e 16 do ACC CW, a frequência da TWR/AFIS MG como alternativa do APP-LO para as aeronaves em voo IFR no FL060 ou abaixo que ingressarão a TMA-LO.
+CAOP CINDACTA II 100-704 – Item 3.1.2
+Gabarito: “d”.
+
+67
+Em caso de degradação do sítio radar de Catanduvas, o APP-LO continuará prestando Vigilância ATS, porém o mínimo da separação horizontal entre aeronaves passará a ser de:
+a) 07 (sete) minutos.
+b) 10 (dez) minutos.
+c) 07 (sete) NM.
+d) 10 (dez) NM.
+CAOP CINDACTA II 100-704 – Item 3.2.3
+Gabarito: “d”.
+
+==========
+CAOP 100-5
+==========
+
+68
+Escolha a alternativa que melhor completa o texto abaixo:
+“É responsabilidade do APP-LO autorizar até o ____________ os planos de voo IFR abaixo do ___________, partindo de aeródromos localizados dentro das projeções laterais da TMA-LO e que ingressarão na FIR-CW.
+a) Destino / FL150.
+b) Limite da TMA-LO / FL140.
+c) Destino, FL140.
+d) Limite da TMA-LO, FL150.
+CAOP CINDACTA II 100-5 – Item 2.1.2.2
+Gabarito: “d”.
+
+69
+Escolha a alternativa que melhor completa o texto abaixo:
+“Para os tráfegos com plano de voo IFR no FL150 ou acima, e que decolarão de aeródromos não controlados localizados ___________ da TMA-LO, o APP-LO poderá autorizar o tráfego até o ______________ e subir até o ________. Após a decolagem, o APP-LO efetuará a coordenação com o ACC-CW e obterá a Autorização ATC.”
+a) Fora das projeções laterais / destino / FL150.
+b) Dentro das projeções laterais / limite da TMA-LO / FL140.
+c) Dentro das projeções laterais / destino / FL140.
+d) Fora das projeções laterais / limite da TMA-LO / FL140.
+CAOP CINDACTA II 100-5 – Item 2.1.2.4
+Gabarito: “b”.
+
+70
+Os planos de voo IFR abaixo do FL150, partindo de aeródromos localizados dentro das projeções laterais da TMA-LO, porém com cruzamento da TMA-DN sem antes ingressar no espaço aéreo classe “G” da FIR-CW, deverão ser autorizados pelo APP-LO até qual ponto?
+a) Até o destino.
+b) Até o limite da TMA-BU.
+c) Até o limite da TMA-DN.
+c) Até o ponto de cancelamento.
+CAOP CINDACTA II 100-5 – Item 2.2.2
+Gabarito: “c”.
+
+71
+Escolha a alternativa que melhor completa o texto abaixo:
+“O APP-LO deverá estabelecer coordenação com antecedência mínima de _________, ou tão logo tenha ciência dos tráfegos que forem ingressar na área de jurisdição do APP-DN sem ingressar no espaço aéreo classe “G” da FIR-CW.”
+a) 03 (três) minutos.
+b) 05 (cinco) minutos.
+c) 10 (dez) minutos.
+d) 15 (quinze) minutos.
+CAOP CINDACTA II 100-5 – Item 2.2.4
+Gabarito: “b”.
+
+=======
+IAC/SID
+=======
+
+72
+Escolha a alternativa que melhor completa o texto abaixo:
+“Uma ACFT executando o procedimento de aproximação perdida conforme IAC RNP Z RWY 10, deverá subir para ____________ na proa do _____________.”
+a) 5000FT/MG136.
+b) 6000FT/MG287.
+c) 5000FT/MG284.
+d) 6000FT/MG136.
+IAC RNP Z RWY 10 SBMG.
+Gabarito: “c”.
+
+73
+Qual a altitude mínima de início do procedimento IAC RNP Y RWY 13?
+a) 3500FT.
+b) 5000FT.
+c) 4000FT.
+d) 6000FT.
+IAC RNP Y RWY 13 SBLO.
+Gabarito: “b”.
+
+74
+Escolha a alternativa que melhor completa o texto abaixo:
+“Uma ACFT executando o procedimento de aproximação perdida conforme IAC RNP Z RWY 13, deverá subir para ____________ na proa do _____________.”
+a) 5000FT/LO134.
+b) 6000FT/LO133.
+c) 5000FT/LO314.
+d) 6000FT/LO316.
+IAC RNP Z RWY 13 SBLO.
+Gabarito: “c”.
+
+75
+Os waypoints definidos como IAF na IAC RNP Z RWY 10, são:
+a) MG133, MG134 e MG136.
+b) MG284, MG286 e MG283.
+c) MG366, MG364 e MG365.
+d) MG281, MG282 e MG283.
+IAC RNP Z RWY 10 SBMG
+Gabarito: “a”.
+
+76
+Aeronaves executando a SID OMNI RWY13 somente poderão iniciar curva após cruzarem qual altitude?
+a) 2300 FT.
+b) 4800 FT.
+c) 5000 FT.
+d) 3300 FT.
+SID OMNI RWY 13 / 31 SBLO.
+Gabarito: “d”.
+
+77
+Escolha a alternativa que melhor completa o texto abaixo:
+“Uma ACFT executando o procedimento de aproximação perdida conforme IAC RNP Z RWY 31, deverá subir para ____________ na proa do _____________.”
+a) 5000FT/LO314.
+b) 6000FT/LO317.
+c) 5000FT/LO136.
+d) 6000FT/LO284.
+IAC RNP Z RWY 31 SBLO.
+Gabarito: “c”.
+
+78
+Qual a altitude mínima de início do procedimento IAC RNP Z RWY 28?
+a) 3500FT.
+b) 4000FT.
+c) 5000FT.
+d) 6000FT.
+IAC RNP Z RWY 28.
+Gabarito: “c”.
+
+79
+Aeronaves executando a SID OMNI RWY 28 em SBMG somente poderão iniciar curva após cruzarem qual altitude?
+a) 2300 FT.
+b) 4800 FT.
+c) 5000 FT.
+d) 3300 FT.
+SID OMNI RWY 10 / 28 SBMG.
+Gabarito: “a”.
+
+80
+Os waypoints definidos como IAF na IAC RNP Z RWY 13, são:
+a) LO133, LO134 e LO136.
+b) LO134, LO136 e LO137.
+c) LO132, LO133 e LO134.
+d) LO131, LO132 e LO133.
+IAC RNP Z RWY 13 SBLO.
+Gabarito: “b”.
+
+81
+Os waypoints definidos como IAF na IAC RNP Z RWY 31, são:
+a) LO314, LO316 e LO317.
+b) LO312, LO314 e LO316.
+c) LO312, LO313 e LO314.
+d) LO313, LO314 e LO316.
+IAC RNP Z RWY 31 SBLO.
+Gabarito: “d”.
+
+===========
+CAOP 100-38
+===========
+
+82
+Em relação às coordenações dos tráfegos sob serviço de vigilância ATS, realizadas entre ACC-CW e APP-LO, o HAND-OFF somente deverá ser aplicado a quais tráfegos?
+a) Tráfegos no FL150 ou abaixo.
+b) Tráfegos acima do FL150.
+c) Tráfegos abaixo do FL 150.
+d) Tráfegos no FL150 ou acima.
+CAOP 100-38 – Item 2.2.1
+Gabarito: “d”.
+
+83
+Como deverão ser realizadas as coordenações de tráfego, entre o ACC-CW e o APP-LO, das aeronaves em missão SAR, missão humanitária, em emergência, MEDEVAC, TREN/TROV, segurança pública, defesa civil, presidencial, AVOEM/AVOMD e em inspeção em voo?
+a) Por telefone apenas em casos de voo IFR.
+b) Pela transferência de controle automática (HAND-OFF).
+c) Por telefone independentemente das regras de voo.
+d) Por telefone apenas em casos de voo VFR.
+CAOP 100-38 – Item 2.2.5
+Gabarito: “c”.
+
+84
+Por qual meio o APP-LO deverá realizar as coordenações com o setor 11 do ACC-CW prioritariamente?
+a) TF-1.
+b) TF-2.
+c) TF Externo.
+d) Canal interno de comunicação (intercom).
+CAOP 100-38 – Item 2.2.6
+Gabarito: “a”.
+
+85
+Por qual meio o APP-LO deverá realizar as coordenações com o setor 12 do ACC-CW prioritariamente?
+a) TF-1.
+b) TF-2.
+c) TF Externo.
+d) Canal interno de comunicação (intercom).
+CAOP 100-38 – Item 2.2.6
+Gabarito: “b”.
+
+86
+O ACC-CW deverá realizar coordenação por telefone referente aos tráfegos que ingressarão na TMA-LO sob regras de voo VFR provenientes de quais setores?
+a) 11 e 12.
+b) 12 e 17.
+c) 15 e 16.
+d) 16 e 17.
+CAOP 100-38 – Item 2.3.1
+Gabarito: “c”.
+
+87
+Com exceção das aeronaves em missão SAR, missão humanitária, em emergência, MEDEVAC, TREN/TROV, segurança pública, defesa civil, presidencial, AVOEM/AVOMD e em inspeção em voo, os voos VFR provenientes de quais setores ficam dispensados de coordenação ao APP-LO?
+a) 12, 16 e 17.
+b) 11, 12 e 16.
+c) 11, 12 e 15.
+d) 11, 12 e 17.
+CAOP 100-38 – Item 2.3.1
+Gabarito: “d”.
+
+88
+As transferências de identificação dos tráfegos evoluindo acima do FL150 provenientes da área do ACC-CW (FIR-CW) para ingresso na área do APP-LO (TMA-XO) serão realizadas de qual forma?
+a) A transferência de identificação deverá ser iniciada, utilizando-se o TF-1, para os tráfegos em descida a partir do FL200 com ingresso na TMA-LO ou, a qualquer momento, mediante prévia coordenação.
+b) a transferência de identificação deverá ser iniciada, utilizando-se o HAND-OFF, para os tráfegos em descida a partir do FL180 com ingresso na TMA-LO ou, a qualquer momento, mediante prévia coordenação.
+c) A transferência de identificação deverá ser iniciada, utilizando-se o HAND-OFF, para os tráfegos em descida a partir do FL200 com ingresso na TMA-LO ou, a qualquer momento, mediante prévia coordenação.
+d) A transferência de identificação deverá ser iniciada, utilizando-se o TF-1, para os tráfegos em descida a partir do FL180 com ingresso na TMA-LO ou, a qualquer momento, mediante prévia coordenação.
+CAOP 100-38 – Item 2.3.3
+Gabarito: “c”.
+
+89
+A transferência de comunicação e de controle dos tráfegos evoluindo acima do FL150 provenientes da área do ACC-CW (FIR-CW) para ingresso na área do APP-LO (TMA-XO) serão realizadas de qual forma?
+a) As transferências de comunicação e de controle deverão ser antes da aceitação do HAND-OFF proposto pelo órgão transferidor ou quando os tráfegos estiverem ingressando a área de jurisdição da TMA-LO.
+b) As transferências de comunicação e de controle deverão ser realizadas a partir de 10 (dez) minutos após aceitação do HAND-OFF proposto pelo órgão transferidor ou quando os tráfegos estiverem ingressando a área de jurisdição da TMA-LO.
+c) As transferências de comunicação e de controle deverão ser realizadas imediatamente após aceitação do HAND-OFF proposto pelo órgão transferidor ou quando os tráfegos estiverem ingressando a área de jurisdição da TMA-LO.
+d) As transferências de comunicação e de controle serão realizadas juntamente com o HAND-OFF proposto pelo órgão transferidor, independente da aceitação deste pelo órgão aceitante, ou quando os tráfegos estiverem ingressando a área de jurisdição da TMA-LO.
+CAOP 100-38 – Item 2.3.3
+Gabarito: “c”.
+
+90
+Onde deverão ser efetuadas as transferências de comunicação e de controle dos tráfegos IFR evoluindo abaixo do FL150 provenientes da área do ACC-CW (FIR-CW) para ingresso na área do APP-LO (TMA-XO)?
+a) A 05 (cinco) milhas para os limites laterais da TMA Londrina, ou a qualquer momento conforme coordenação prévia entre os órgãos.
+b) A 10 (dez) milhas para os limites laterais da TMA Londrina, ou a qualquer momento conforme coordenação prévia entre os órgãos.
+c) A 15 (quinze) milhas para os limites laterais da TMA Londrina, ou a qualquer momento conforme coordenação prévia entre os órgãos.
+d) Nos limites laterais da TMA Londrina, ou a qualquer momento conforme coordenação prévia entre os órgãos.
+CAOP 100-38 – Item 2.3.4
+Gabarito: “d”.
+
+============
+CAOP 100-681
+============
+
+91
+Escolha a alternativa que melhor completa o texto abaixo:
+“Durante o horário de funcionamento do AFIS, o APP-LO deverá informar ao APOC através do ramal _____, _____, através do celular operacional 43 99193-2596, ou ainda alternativamente através do UHF para que seja providenciado o acionamento do balizamento e do PAPI, assim que venha a ter conhecimento sobre qualquer movimentação de aeronaves, estimados de pouso de tráfegos prosseguindo para SBLO e/ou tráfegos que informem intenção de decolagem.”
+a) 9105 / 9161.
+b) 9160 / 9161.
+c) 9105 / 9101.
+d) 9101 / 9121.
+CAOP 100-681 – Item 2.15.1
+Gabarito: “c”.
+
+92
+Em caso de emergência na área de manobras de SBLO, o APP/AFIS-LO deverá realizar a comunicação UHF em atendimento à emergência através de qual canal?
+a) LDB CRT SOLO.
+b) LDB OPE.
+c) LDB ADM.
+d) LDB EMERG.
+CAOP 100-681 – Item 2.13.1
+Gabarito: “d”.
+
+93
+Exceto em casos de emergência, todo acesso à área de manobras e área sensível deve ser precedida de informação ao APP/AFIS-LO através de qual canal?
+a) LDB CRT SOLO.
+b) LDB OPE.
+c) LDB ADM.
+d) LDB EMERG.
+CAOP 100-681 – Item 2.4.1
+Gabarito: “a”.
+
+94
+Quando alguma aeronave solicitar ao APP/AFIS-LO a realização de teste de motor com potência, essa será realizada em qual local do Aeroporto?
+a) TWY A com a calda voltada para a RWY.
+b) TWY B com a calda voltada para a RWY.
+c) THR13 com a calda voltada para a THR31.
+d) THR31 com a calda voltada para a THR13.
+CAOP 100-681 – Item 2.11.1
+Gabarito: “d”.
+
+95
+Ao identificar situação de potencial risco, envolvendo aeronaves, onde não houve declaração de emergência, qual ação deverá ser tomada pelo APP/AFIS-LO?
+a) Acionar imediatamente a sirene SCI.
+b) Entrar em contato telefônico apenas com o APOC a fim de alertá-los sobre a situação.
+c) Entrar em contato telefônico com a SCI a fim de alertá-los sobre a situação. 
+d) Nenhuma ação deverá sem tomada pelo APP/AFIS-LO.
+CAOP 100-681 – Item 2.12.1
+Gabarito: “c”.
+
+96
+Assinale a alternativa INCORRETA:
+a) O controlador do APP/AFIS-LO deverá informar ao APOC, sempre que constatar a ocorrência de Incursão em Pista.
+b) O controlador do APP/AFIS-LO deverá dispensar especial atenção na troca de turno e passagem de serviço quando existirem veículos e/ou pessoas realizando trabalhos na área de manobras.
+c) O controlador do APP/AFIS-LO deverá informar ao APOC/Fiscal de pátio quando houver operação de aeronaves para que seja acionado ou desligado o balizamento de pista e o PAPI.
+d) O controlador do APP/AFIS-LO deverá realizar as designações de estacionamento de aeronaves e informar a alocação ao APOC.
+CAOP 100-681 – Item 2.16.7
+Gabarito: “d”.
+
+97
+Profissionais de manutenção, gerenciamento de risco da fauna, fiscalização de pátio e quaisquer outros que necessitem acessar a área de manobras, área sensível e área protegida de SBLO deverão comunicar a quem a informação de acesso?
+a) APP/AFIS-LO.
+b) DNLO-4.
+c) APOC.
+d) SCI.
+CAOp CINDACTA II 100-681 – Item 2.4.2
+Gabarito: "a"
+
+============
+CAOP 100-682
+============
+
+98
+Em caso de uma Situação de Socorro (MAYDAY), em que momento deve se efetuar o procedimento de "reserva de pista" pelo APP/AFIS-LO?
+a) Com a ACFT em emergência a 15NM fora de SBLO.
+b) Com a ACFT ingressando na TMA-LO.
+c) A partir do momento da declaração da Situação de Socorro (MAYDAY).
+d) Somente quando o APOC solicitar.
+CAOP CINDACTA II 100-682 – Item 2.1.1.2
+Gabarito: “c”.
+
+99
+Em Situação de Urgência (PAN PAN), caso o piloto declare impossibilidade de alternar outro aeródromo, qual procedimento o APP/AFIS-LO deverá adotar?
+a) Deverá reservar o sistema de pistas quando a aeronave estiver a 05 minutos para pouso em SBLO.
+b) Deverá reservar o sistema de pistas quando a aeronave estiver a 15 minutos para pouso em SBLO.
+c) Não haverá necessidade de reserva do sistema de pistas.
+d) Deverá adotar os procedimentos previstos para reserva de pista conforme previsto para Situação de Socorro (MAYDAY).
+CAOP CINDACTA II 100-682 – Item 2.1.1.1
+Gabarito: “d”.
+
+100
+Na Situação de Urgência (PAN PAN), caso a aeronave em urgência reporte necessidade de alijamento de combustível, não será aplicada reserva de pista até que a aeronave esteja a quantos minutos para o pouso em SBLO?
+a) 10 (dez).
+b) 20 (vinte).
+c) 05 (cinco).
+d) 15 (quinze).
+CAOP CINDACTA II 100-682 – Item 2.1.1.1
+Gabarito: "d"
+
+101
+Em relação aos reportes de enfermo, lesionado grave, notificação de suspeita de enfermidade transmissível e outros riscos à saúde, assinale a alternativa correta.
+a) Ao receber reporte de enfermo ou lesionado grave a bordo de aeronave para pouso em SBLO, o APP/AFIS-LO deverá notificar o APOC, informando as características da enfermidade que tenham sido informadas.
+b) Ao receber reporte de doença transmissível ou outros riscos à saúde pública de aeronave para pouso em SBLO, o APP/AFIS-LO deverá notificar imediatamente o APOC, informando as características de enfermidade. 
+c) O APP/AFIS-LO deverá atender às orientações do APOC com relação às instruções de estacionamento e repassar informações ao piloto.
+d) Todas as alternativas estão corretas.
+CAOP CINDACTA II 100-682 – Item 2.2.1
+Gabarito: “d”.
