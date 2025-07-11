@@ -1,4 +1,4 @@
-# QUIZaPP sem timer
+# QUIZaPP sem timer (refatorado: janela 70% alinhada à direita)
 
 import sqlite3
 import random
@@ -14,12 +14,26 @@ def carregar_questoes(banco):
     conn.close()
     return questoes
 
+# --------------------- Função para posicionar janela 70% direita ---------------------
+def centralizar_direita(janela, largura_percent=70, altura_percent=80):
+    janela.update_idletasks()
+    largura_tela = janela.winfo_screenwidth()
+    altura_tela = janela.winfo_screenheight()
+
+    largura = int(largura_tela * (largura_percent / 100))
+    altura = int(altura_tela * (altura_percent / 100))
+
+    x = largura_tela - largura
+    y = int((altura_tela - altura) / 2)
+
+    janela.geometry(f"{largura}x{altura}+{x}+{y}")
+
 # --------------------- Tela Inicial ---------------------
 class TelaInicial:
     def __init__(self, master):
         self.master = master
         self.master.title("Quiz TGE APP 2025")
-        self.master.geometry("400x300")
+        centralizar_direita(self.master, 70, 80)
         self.master.configure(bg="#1e1e1e")
 
         tk.Label(master, text="Quiz TGE APP 2025", font=("Arial", 16, "bold"), bg="#1e1e1e", fg="#ffffff").pack(pady=20)
@@ -51,7 +65,7 @@ class QuizApp:
 
         self.root = tk.Tk()
         self.root.title("Quiz")
-        self.root.geometry("700x500")
+        centralizar_direita(self.root, 70, 80)
         self.root.configure(bg="#1e1e1e")
 
         self.progress = ttk.Progressbar(self.root, length=600, mode='determinate', maximum=len(self.questoes))
