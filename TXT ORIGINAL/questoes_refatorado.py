@@ -49,6 +49,41 @@ class DatabaseManager:
         ''')
         logger.info("Tabela de questões criada/verificada")
 
+
+def _remover_secoes_separadores(linhas: List[str]) -> List[str]:
+    """
+    Remove todas as seções entre separadores ========== do arquivo.
+
+    Args:
+        linhas: Lista de linhas do arquivo original
+
+    Returns:
+        Lista de linhas sem as seções entre separadores
+    """
+    linhas_limpas = []
+    i = 0
+
+    while i < len(linhas):
+        linha = linhas[i].strip()
+
+        # Verifica se é uma linha separadora
+        if linha.startswith('=========='):
+            # Pula até encontrar a próxima linha separadora ou fim do arquivo
+            i += 1
+            while i < len(linhas) and not linhas[i].strip().startswith('=========='):
+                i += 1
+            # Pula também a linha de fechamento se encontrou
+            if i < len(linhas):
+                i += 1
+        else:
+            # Linha normal, mantém
+            linhas_limpas.append(linhas[i])
+            i += 1
+
+    logger.info(f"Removidas {len(linhas) - len(linhas_limpas)} linhas de seções separadoras")
+    return linhas_limpas
+
+
 class QuestaoParser:
     """Parser para extrair questões de arquivos de texto."""
     
@@ -112,7 +147,7 @@ class QuestaoParser:
                 linhas = [linha.rstrip('\n\r') for linha in file.readlines()]
         
         # Remove seções entre separadores antes de processar
-        linhas_limpas = self._remover_secoes_separadores(linhas)
+        linhas_limpas = _remover_secoes_separadores(linhas)
         
         questoes = []
         i = 0
@@ -140,40 +175,7 @@ class QuestaoParser:
         
         logger.info(f"Parse concluído: {len(questoes)} questões válidas encontradas")
         return questoes
-    
-    def _remover_secoes_separadores(self, linhas: List[str]) -> List[str]:
-        """
-        Remove todas as seções entre separadores ========== do arquivo.
-        
-        Args:
-            linhas: Lista de linhas do arquivo original
-            
-        Returns:
-            Lista de linhas sem as seções entre separadores
-        """
-        linhas_limpas = []
-        i = 0
-        
-        while i < len(linhas):
-            linha = linhas[i].strip()
-            
-            # Verifica se é uma linha separadora
-            if linha.startswith('=========='):
-                # Pula até encontrar a próxima linha separadora ou fim do arquivo
-                i += 1
-                while i < len(linhas) and not linhas[i].strip().startswith('=========='):
-                    i += 1
-                # Pula também a linha de fechamento se encontrou
-                if i < len(linhas):
-                    i += 1
-            else:
-                # Linha normal, mantém
-                linhas_limpas.append(linhas[i])
-                i += 1
-        
-        logger.info(f"Removidas {len(linhas) - len(linhas_limpas)} linhas de seções separadoras")
-        return linhas_limpas
-    
+
     def _parse_questao_individual(self, linhas: List[str], inicio: int) -> Optional[Tuple]:
         """
         Processa uma questão individual a partir de uma posição específica.
