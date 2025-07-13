@@ -14,8 +14,8 @@ cursor.execute('''
         alternativa_b TEXT,
         alternativa_c TEXT,
         alternativa_d TEXT,
-        fonte TEXT,
-        gabarito TEXT
+        gabarito TEXT,
+        fonte TEXT
     )
 ''')
 
@@ -47,26 +47,28 @@ def parse_questoes(file_path):
         alternativa_d = linhas[i].strip()[3:].strip()
         i += 1
 
-        # Fonte
-        fonte = linhas[i].strip()
-        i += 1
-
         # Gabarito
         gabarito_match = re.search(r'Gabarito:\s*[“"]?([a-dA-D])', linhas[i])
         gabarito = gabarito_match.group(1).lower() if gabarito_match else ""
         i += 1
+    
+        # Fonte
+        fonte = linhas[i].strip()
+        i += 1
 
+    
         questoes.append((
-            numero, enunciado.strip(), alternativa_a, alternativa_b, alternativa_c, alternativa_d, fonte, gabarito
+            numero, enunciado.strip(), alternativa_a, alternativa_b, alternativa_c, alternativa_d, gabarito, fonte
         ))
 
     return questoes
 
 # ---------- 3. Leitura e inserção ----------
-questoes = parse_questoes("TGE APP 2025 GERAIS.txt")
+questoes = parse_questoes("TXT ORIGINAL/TGE APP 2025 GERAIS.txt")
+#questoes = parse_questoes("TGE APP 2025 GERAIS.txt")
 
 cursor.executemany('''
-    INSERT INTO questoes (numero, enunciado, alternativa_a, alternativa_b, alternativa_c, alternativa_d, fonte, gabarito)
+    INSERT INTO questoes (numero, enunciado, alternativa_a, alternativa_b, alternativa_c, alternativa_d,gabarito, fonte)
     VALUES (?, ?, ?, ?, ?, ?, ?, ?)
 ''', questoes)
 

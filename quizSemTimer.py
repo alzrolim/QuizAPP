@@ -71,8 +71,14 @@ class QuizApp:
         self.progress = ttk.Progressbar(self.root, length=600, mode='determinate', maximum=len(self.questoes))
         self.progress.pack(pady=15)
 
-        self.pergunta_label = tk.Label(self.root, text="", wraplength=650, justify="left", font=("Arial", 12), bg="#1e1e1e", fg="#ffffff")
+        #novo metodo de exibição de perguntas
+        self.pergunta_label = tk.Message(self.root, text="", width=800, font=("Arial", 14),
+                                 bg="#1e1e1e", fg="#ffffff", justify="left")
         self.pergunta_label.pack(pady=20)
+
+        #metodo antigo das questões, testando o novo
+        #self.pergunta_label = tk.Label(self.root, text="", wraplength=650, justify="left", font=("Arial", 12), bg="#1e1e1e", fg="#ffffff")
+        #self.pergunta_label.pack(pady=20)
 
         self.botoes = {}
         for letra in ['a', 'b', 'c', 'd']:
@@ -107,10 +113,10 @@ class QuizApp:
         self.gabarito_correto = gabarito
 
         self.pergunta_label.config(text=f"Pergunta {self.indice + 1}: {enunciado}\nFonte: {fonte}")
-        self.botoes['a'].config(text=f"A) {a}")
-        self.botoes['b'].config(text=f"B) {b}")
-        self.botoes['c'].config(text=f"C) {c}")
-        self.botoes['d'].config(text=f"D) {d}")
+        self.botoes['a'].config(text=f"a) {a}")
+        self.botoes['b'].config(text=f"b) {b}")
+        self.botoes['c'].config(text=f"c) {c}")
+        self.botoes['d'].config(text=f"d) {d}")
 
         self.progress['value'] = self.indice
 
